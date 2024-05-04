@@ -8,6 +8,12 @@ struct Node {
 	Node* prev;
 };
 
+Node* START = NULL;
+
+void addNode() {
+	
+}
+
 int main()
 {
    
