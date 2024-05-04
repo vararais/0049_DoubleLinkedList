@@ -140,7 +140,7 @@ void traverse() {
 		cout << "\nList is empty" << endl;
 	else
 	{
-		cout << "\nRecirds in ascending order of roll number are:" << endl;
+		cout << "\nRecords in ascending order of roll number are:" << endl;
 		Node* currentNode = START;
 		while (currentNode != NULL)
 		{
