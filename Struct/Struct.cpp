@@ -179,7 +179,7 @@ void searchData() {
 	int num;
 	cin >> num;
 	if (search(num, &prev, &curr) == false)
-		cout << "\nrecord not Found" << endl;
+		cout << "\nRecord not Found" << endl;
 	else
 	{
 		cout << "\nRecord found" << endl;
